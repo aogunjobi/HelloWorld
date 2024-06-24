@@ -1,7 +1,7 @@
-# The name of the repo 
-Summary of stuff here 
+# Quatrenary-Oxides 
+ 
 # This is how you set up the project
 
-Do things here. afterwards do more stuff. 
+
 
 
