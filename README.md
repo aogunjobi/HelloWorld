@@ -1,7 +1,7 @@
 
 # Project Overview
 
-This repository contains three Jupyter Notebooks focused on data processing, filtering, and computational modeling using first-principles calculations. Below is a summary of each notebook and its main components.
+This repository contains three Jupyter Notebooks focused on data processing, filtering, and computational modeling using first-principles calculations for the discovery of new materials (in this case complex oxides). However the methods employed in these notebooks can adapted for any material of interest. Below is a summary of each notebook and its main components.
 
 ## Notebooks Summary
 
